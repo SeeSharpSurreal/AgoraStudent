@@ -1,0 +1,72 @@
+/*
+    Document   : assets/css/styles.css
+    Created on : 2015-02-19 11:01 PM
+    Author     : SeeSharpSurreal
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+root {
+    display: block;
+}
+
+.no-arrow {
+    padding-right: 8px;
+
+}
+.logo2 {
+    width: 175px;
+    height: 40px;
+}
+
+.elogo {
+    padding-bottom: 10px;
+}
+
+.cover {
+    image-rendering: cover;
+}
+
+.padup {
+    
+}
+
+.picFront {
+    
+}
+
+.black {
+    color: black;
+}
+
+.small {
+    padding-bottom: 25px;
+    padding-right: 75px;
+}
+
+.smaller {
+    width: 75%;
+    height: 75%;
+}
+
+.leftAndTop {
+    
+}
+
+#down {
+    padding-top: 23px;
+}
+
+.fourteen {
+    padding-left: 15px;
+}
+
+.sizeit {
+    width: 25%;
+}
+
+.middle {
+    margin: 0 auto;
+    display: block;
+}
